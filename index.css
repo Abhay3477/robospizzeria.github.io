@@ -1,3 +1,9 @@
 #img_div{
     text-align: center;
 }
+#img_div > img{
+    width: -webkit-fill-available;
+}
+body {
+    background-color: #f3efe3;
+}
